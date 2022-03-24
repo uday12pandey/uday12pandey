@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uday12pandey
+- 👋 Hi, I’m @uday pandey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on php project
